@@ -1,4 +1,4 @@
-package main
+package conditionals
 
 import "fmt"
 
@@ -27,7 +27,7 @@ func if_elif_example(grade string) {
 }
 
 
-func main() {
+func Test_run() {
 	if_example(7)
 	fmt.Println("_____")
 
