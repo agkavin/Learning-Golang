@@ -8,7 +8,7 @@ In this collection of small projects, I’m recording my journey from figuring o
 
 ## Folder Breakdown:
 
-- **projects**: This folder contains various mini projects that I’ve worked on. Each folder here focuses on a different topic or concept in Go.
+- **Learnings**: This folder contains various mini projects that I’ve worked on. Each folder here focuses on a different topic or concept in Go.
 
 - **pkg**: A folder for any custom packages I’ve created, like my `calc` package for basic calculations.
 
